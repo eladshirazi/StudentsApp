@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary">#006C51</color>          <!-- A deep teal -->
+    <color name="primary_dark">#005440</color>     <!-- Darker teal for status bar -->
+    <color name="primary_variant">#4C9380</color>  <!-- Lighter teal -->
+    <color name="secondary">#FF4081</color>        <!-- Pink accent -->
+    <color name="secondary_variant">#FF80AB</color><!-- Lighter pink -->
+
+    <!-- Background colors -->
+    <color name="background">#FFFFFF</color>       <!-- White background -->
+    <color name="surface">#FFFFFF</color>          <!-- White surface -->
+    <color name="error">#B00020</color>           <!-- Error red -->
+
+    <!-- Text colors -->
+    <color name="on_primary">#FFFFFF</color>       <!-- White text on primary -->
+    <color name="on_secondary">#000000</color>     <!-- Black text on secondary -->
+    <color name="on_background">#000000</color>    <!-- Black text on background -->
+    <color name="on_surface">#000000</color>       <!-- Black text on surface -->
+    <color name="on_error">#FFFFFF</color>         <!-- White text on error -->
+</resources>
